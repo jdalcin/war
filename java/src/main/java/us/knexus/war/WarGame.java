@@ -5,9 +5,6 @@
  */
 package us.knexus.war;
 
-import java.util.ArrayList;
-import java.util.List;
-import us.knexus.deck.Card;
 import us.knexus.deck.CardFactory;
 import us.knexus.deck.Deck;
 
