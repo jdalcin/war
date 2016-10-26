@@ -34,7 +34,7 @@ import us.knexus.deck.CardFactory;
 import us.knexus.deck.Deck;
 
 /**
- * A simple versino of the card game WarGame
+ * A simple version of the card game WarGame
  
  * @author Justin
  */
