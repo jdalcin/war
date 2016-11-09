@@ -57,6 +57,7 @@ class Deck(object):
         :return:
         """
         self.draw_pile.extend(self.discard_pile)
+        self.discard_pile = []
         shuffle(self.draw_pile)
 
     def get_draw_pile_size(self):
