@@ -5,3 +5,4 @@ java/target/
 *.iml
 *.prefs
 *.project
+*.pyc
