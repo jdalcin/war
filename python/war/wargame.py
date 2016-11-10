@@ -3,9 +3,9 @@ Knexus Python Programming test
 
 Author: JT
 """
-import deck.cardfactory as cardfact
-import deck.card as card
-import deck.deck as deck
+import cardfactory as cardfact
+import card as card
+import deck as deck
 
 
 def play_round(deck1, deck2):
