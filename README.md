@@ -25,7 +25,7 @@ add them to their discard pile.
 For this programming test, we want you to implement a function that plays out a single round of
 the Game of War **strictly following the above rules**.
 
-You have been provided:
+## You have been provided:
 
 * Deck API with the operations:
   * Draw: Remove and return the top Card from the Deck.
