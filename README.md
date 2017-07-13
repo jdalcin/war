@@ -1,4 +1,4 @@
-#Programming Test: Game of War
+# Programming Test: Game of War
 
 War is a two player card game in which a standard deck of 52 cards is split into two equal
 decks, one for each player. The Game of War has the following rules:
