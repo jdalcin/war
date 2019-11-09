@@ -3,14 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package us.knexus.deck;
+package us.game.deck;
 
 import java.util.Objects;
 
-/**
- *
- * @author Justin
- */
 public class Card {
     /**
      * An enumeration of possible card suits

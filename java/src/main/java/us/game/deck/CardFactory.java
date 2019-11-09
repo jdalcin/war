@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package us.knexus.deck;
+package us.game.deck;
 
 import java.util.ArrayList;
 import java.util.List;
-import us.knexus.deck.Card.Suit;
+import us.war.deck.Card.Suit;
 
-/**
- *
- * @author Justin
- */
 public class CardFactory {
     /**
      * Creates a full deck with 52 cards.

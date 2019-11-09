@@ -3,17 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package us.knexus.deck;
+package us.game.deck;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 
-/**
- *
- * @author Justin
- */
 public class Deck {
     /**
      * The list of cards representing the 'Draw Pile'. Or cards which can be drawn.

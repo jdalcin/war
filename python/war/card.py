@@ -1,10 +1,3 @@
-"""
-Knexus Python Programming test
-
-Author: JT
-"""
-
-
 class Card(object):
     def __init__(self, name, suit, ordinal):
         """

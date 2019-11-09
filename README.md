@@ -1,4 +1,4 @@
-# Programming Test: Game of War
+# Game of War
 
 War is a two player card game in which a standard deck of 52 cards is split into two equal
 decks, one for each player. The Game of War has the following rules:
@@ -22,11 +22,6 @@ recently drawn card (i.e., the last card in their deck)
 add them to their discard pile.
 7. If at any point a player’s draw pile runs out of cards they reshuffle their deck
 
-For this programming test, we want you to implement a function that plays out a single round of
-the Game of War **strictly following the above rules**.
-
-## You have been provided:
-
 * Deck API with the operations:
   * Draw: Remove and return the top Card from the Deck.
   * Discard: Add the given Card to the Deck’s discard pile.
@@ -35,4 +30,4 @@ the Game of War **strictly following the above rules**.
 * A main method with an instantiated Deck of 52 Cards which has been properly split into
 two decks of 26 cards ready for play.
 * A playRound method that takes as parameters two Decks.
-  * You must implement and call this method to play a round of the Game of War when called.
+  * Run the main file (wargame.py) to play a game and see the winner in the terminal.
